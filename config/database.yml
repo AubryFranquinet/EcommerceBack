@@ -1,11 +1,11 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: 
-  username: 
-  password: # Fill this, not ENV yet
-  host: 
-  port: 
+  database: dfp4rc0ken52t4
+  username: dainhksjlqaica
+  password: 151cc11bd3b78868d61dbf6476f522257b9cc593a692da408f758d4bc03ff66e
+  host: ec2-34-255-225-151.eu-west-1.compute.amazonaws.com
+  port: 5432
   pool: 5
 
 
